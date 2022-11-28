@@ -1,0 +1,7 @@
+# .NET binaries
+bin
+obj
+
+# Visual Studio user and temp files
+.vs
+*.suo
